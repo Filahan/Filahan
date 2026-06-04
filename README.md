@@ -2,8 +2,6 @@
 
 Senior Data Engineer @ [Brevo](https://www.brevo.com) — building data pipelines on GCP (Kafka, BigQuery, Go, Terraform).
 
-🛠️ On the side, I'm shipping **[Plume](https://github.com/Filahan/Plume)** — a private, self-hosted AI assistant with tool-using agents and schedulable automations. Bring your own keys, run it on your own machine.
-
 ---
 
 #### Stack I work with
