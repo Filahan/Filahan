@@ -4,8 +4,6 @@ Senior Data Engineer @ [Brevo](https://www.brevo.com) — building data pipeline
 
 🛠️ On the side, I'm shipping **[Plume](https://github.com/Filahan/Plume)** — a private, self-hosted AI assistant with tool-using agents and schedulable automations. Bring your own keys, run it on your own machine.
 
-📝 I write about data engineering and AI on [LinkedIn](https://www.linkedin.com/in/anas-filah-45b756184/).
-
 ---
 
 #### Stack I work with
@@ -19,7 +17,3 @@ Senior Data Engineer @ [Brevo](https://www.brevo.com) — building data pipeline
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-#### Find me elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-filah-45b756184/)
